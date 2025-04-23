@@ -1,7 +1,7 @@
 fire
-transformers==4.43.2
+transformers==4.51.3
 numpy
-torch>=2.3.0
+torch==2.6.0
 packaging
 cpufeature
 protobuf
